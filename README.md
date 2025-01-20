@@ -28,14 +28,6 @@ This project implements an image processing pipeline for multispectral satellite
     - matplotlib
     - Earth Engine API
 
-## Usage
-
-1. Clone this repository
-2. Install required dependencies
-3. Run the main pipeline:
-```python
-python 02_scripts/main_ips_v6.py
-```
 
 ## Project Structure
 
